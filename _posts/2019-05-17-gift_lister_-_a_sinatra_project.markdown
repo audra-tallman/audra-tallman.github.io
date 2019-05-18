@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Gift Lister - A Sinatra Project"
-date:       2019-05-18 00:32:53 +0000
+date:       2019-05-17 20:32:54 -0400
 permalink:  gift_lister_-_a_sinatra_project
 ---
 
